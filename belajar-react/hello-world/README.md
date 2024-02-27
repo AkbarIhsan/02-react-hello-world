@@ -23,3 +23,12 @@
 
 
 3. ![Screenshot](assets-report/01.png)
+
+3. ![Screenshot](assets-report/02.png)
+
+4. ![Screenshot](assets-report/03.1.png)
+   ![Screenshot](assets-report/03.2.png)
+
+5. ![Screenshot](assets-report/04.png)
+
+6. ![Screenshot](assets-report/05.png)
